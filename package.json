@@ -1,0 +1,17 @@
+{
+  "author": "Mihai Tomescu <matomesc@gmail.com> (https://github.com/matomesc)",
+  "name": "filescrape",
+  "description": "scrape files and save them to disk",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matomesc/filescrape",
+  "repository": {
+    "url": "git@github.com:matomesc/filescrape.git"
+  },
+  "main": "scraper.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
